@@ -13,7 +13,7 @@ we just need to prepare an image that will be used as a background, and then run
 Instructions on how to use the **Background Login Screen**:
 
 ```bash
-git clone https://github.com/kp300/BACKGROUND-LOGIN-SCREEN.git
+git clone https://github.com/ALBINPRAVEEN/kali-background-login-screen
 cd BACKGROUND-LOGIN-SCREEN
 sudo chmod +x run.sh
 sudo chmod +x back.sh
