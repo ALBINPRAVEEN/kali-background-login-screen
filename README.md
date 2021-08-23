@@ -14,7 +14,7 @@ Instructions on how to use the **Background Login Screen**:
 
 ```bash
 git clone https://github.com/ALBINPRAVEEN/kali-background-login-screen
-cd BACKGROUND-LOGIN-SCREEN
+cd kali-background-login-screen
 sudo chmod +x run.sh
 sudo chmod +x back.sh
 sudo bash run.sh
